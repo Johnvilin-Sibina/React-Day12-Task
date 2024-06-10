@@ -1,0 +1,12 @@
+.card{
+  border: 0px;
+}
+.quantity-button{
+  font-size: larger;
+  width: 40px;
+}
+@media screen and (max-width:768px){
+  .total-card{
+     width: 70vw;
+  }
+}
