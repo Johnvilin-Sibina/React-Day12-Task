@@ -5,3 +5,5 @@
   <li>By clicking the "Remove" button in each card the particular item can be removed from cart.</li>
   <li>At the top of the page the total number of items in cart and the total amount are displayed.</li>
 </ul>
+<h4>Deployment URL:</h4>
+<a hre"https://mellow-piroshki-c5e803.netlify.app/">https://mellow-piroshki-c5e803.netlify.app/</a>
